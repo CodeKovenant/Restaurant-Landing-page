@@ -1,9 +1,3 @@
-//loader 
-const loader = document.querySelector('.loader')
-window.addEventListener('load' , function (){
-   loader.classList.add('hidden');
-})
-
 
 const nav = document.getElementById('nav');
 const open = document.getElementById('open');
